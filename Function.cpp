@@ -110,6 +110,9 @@ int GiaTraiCay(Fruit t[], int n, char ten[], float gia) {
 	return 0;
 	
 }
+void helloae() {
+	cout << "hello ae ";
+}
 
 
 
